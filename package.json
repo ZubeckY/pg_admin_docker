@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dc_up": "docker-compose up --detach",
+    "dc_stop": "docker-compose stop"
+  }
+}
